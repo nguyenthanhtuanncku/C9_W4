@@ -1,22 +1,18 @@
-# R-Markdown-Presentation-Plotly
+# Developing-Data-Products-R-Markdown-Presentation-Plotly
 
-Peer-graded Assignment: R Markdown Presentation & Plotly
+## This is a repo with the gh-pages branch. The HTML page can be viewed online by clicking [on this Github Pages link.](https://aniruddhachakraborty.github.io/Developing-Data-Products-R-Markdown-Presentation-Plotly/Plotly.html)
 
-Submit by June 21, 11:59 PM PDT
+## R markdown and compiled HTML (Source code) files can be found in the repository itself.
 
-Important Information
+## Synopsis
 
-It is especially important to submit this assignment before the deadline, June 21, 11:59 PM PDT, because it must be graded by others. If you submit late, there may not be enough classmates around to review your work. This makes it difficult - and in some cases, impossible - to produce a grade. Submit on time to avoid these risks.
+Following instructions have been given for the assignment -   
 
-InstructionsMy submissionDiscussions
+1. Create a web page presentation using R Markdown that features a plot created with Plotly.  
+2. Host your webpage on either RPubs, GitHub Pages, or NeoCities.   
+3. Your webpage must contain the date that you created the document, and it must contain a plot created with Plotly.
 
-Instructions
+The **Interactive Plots** presented in this Assignment are as follows -
 
-Create a web page presentation using R Markdown that features a plot created with Plotly. Host your webpage on either GitHub Pages, RPubs, or NeoCities. Your webpage must contain the date that you created the document, and it must contain a plot created with Plotly. We would love to see you show off your creativity!
-Review criterialess 
-The rubric contains the following two questions:
-
-Does the web page feature a date and is this date less than two months before the date that you're grading this assignment?
-Is the web page a presentation and does it feature an interactive plot that appears to have been created with Plotly?
-Example Submissionsless 
-Here's an extremely minimal passing example, but we hope your submission is much cooler!
+1. A **Heatmap** depicting the Daily Ozone Levels in New York over a period of 5 months (May to September 1973).
+2. A **Time-Series chart** of the Population of the United States (in millions) for the period 1790-1970.
